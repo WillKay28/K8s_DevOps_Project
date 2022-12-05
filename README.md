@@ -32,3 +32,7 @@ The project includes the following files:
 
 5. To give a URL to external service in minikube:
     - minikube service mongo-express-service
+
+To RUN Mongo Express App on a browser:
+    - Take the assigned external IP from step 5 and load it through port 30002
+    - Paste IP_address:30002 in your browser to load app
